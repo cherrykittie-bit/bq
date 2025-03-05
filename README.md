@@ -1,8 +1,8 @@
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
 <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
-<div class="tradingview-widget-container" style="height:610px;width:100px">
-  <div class="tradingview-widget-container__widget" style="height:calc(610px - 32px);width:100%"></div>
+<div class="tradingview-widget-container" style="height:610px;width:100%">
+  <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
   "autosize": true,
