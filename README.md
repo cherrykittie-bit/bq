@@ -5,7 +5,8 @@
   <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
-  "autosize": true,
+  "width": "100%",
+  "height": "610px",
   "symbol": "BITSTAMP:BTCUSD",
   "interval": "D",
   "timezone": "exchange",
