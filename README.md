@@ -1,6 +1,8 @@
 <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script>
 <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#abb8c3" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
 
+<div styles="height=50px"/>
+
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
@@ -22,6 +24,8 @@
 }
   </script>
 </div>
+
+<div styles="height=50px"/>
 
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
